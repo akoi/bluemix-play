@@ -1,0 +1,7 @@
+---
+applications:
+- name: bluemix-play
+  memory: 512M
+  instances: 1
+  path: target/universal/bluemix-play-1.0-SNAPSHOT.zip
+
