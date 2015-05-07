@@ -1,2 +1,2 @@
-java -jar activator-launch-1.2.10.jar dist
+java -jar activator-launch-1.3.2.jar dist
 
